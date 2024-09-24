@@ -1,0 +1,176 @@
+let mapD1 = [
+    "000000",
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "000000",
+    "000000"
+];
+let mapC1 = [
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR"
+];
+let mapD2 = [
+    "110011",
+    "110011",
+    "110011",
+    "110011",
+    "110011",
+    "110011",
+    "110011",
+    "110011",
+    "110011"
+];
+let mapC2 = [
+    "RRBRRR",
+    "GGGBGG",
+    "BBRGBB",
+    "RRBRRR",
+    "GGGBGG",
+    "BBRGBB",
+    "RRBRRR",
+    "GGGBGG",
+    "BBRGBB"
+];
+let mapD3 = [
+    "111111",
+    "100001",
+    "100001",
+    "100001",
+    "100001",
+    "100001",
+    "100001",
+    "100001",
+    "111111"
+];
+let mapC3 = [
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR"
+];
+let mapD4 = [
+    "000111",
+    "001111",
+    "011111",
+    "001111",
+    "001111",
+    "000111",
+    "011111",
+    "111111",
+    "000111"
+];
+let mapC4 = [
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB",
+    "BBBBBB"
+];
+let mapD5 = [
+    "100000",
+    "111111",
+    "000001",
+    "011101",
+    "010111",
+    "010000",
+    "110111",
+    "100001",
+    "111111"
+];
+let mapC5 = [
+    "RBBBBB",
+    "RRRRRR",
+    "BBBBBG",
+    "BBBGBG",
+    "BBBGGG",
+    "BBBBBB",
+    "BBBBGG",
+    "RBBBBG",
+    "RRRRRG"
+];
+let mapD6 = [
+    "101010",
+    "010101",
+    "101010",
+    "010101",
+    "101010",
+    "010101",
+    "101010",
+    "010101",
+    "101010"
+];
+let mapC6 = [
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR",
+    "RGBRGB",
+    "BRGBRG",
+    "GBRGBR"
+];
+let mapD7 = [
+    "011110",
+    "100001",
+    "010010",
+    "001100",
+    "001100",
+    "010010",
+    "100001",
+    "011110",
+    "000000"
+];
+let mapC7 = [
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG",
+    "GGGGGG"
+];
+let mapD8 = [
+    "111111",
+    "011110",
+    "001100",
+    "100001",
+    "110011",
+    "110011",
+    "000000",
+    "101101",
+    "101101"
+];
+let mapC8 = [
+    "RRRRRR",
+    "RRRRRR",
+    "RRRRRR",
+    "GRRRRB",
+    "GGRRBB",
+    "GGRRBB",
+    "RRRRRR",
+    "RRGGRB",
+    "RRGGRB"
+];
